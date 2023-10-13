@@ -1,0 +1,51 @@
+table {
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+#ng {
+    background-color: black;
+    color: white;
+}
+
+tr {
+    text-align: center;
+}
+
+th {
+    border: 1px solid black;
+    text-decoration: underline;
+    padding: 10px;
+    text-align: center;
+    background-color: red;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+select {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#pag>a,
+input[type=submit] {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#contenedor {
+    background-color: blue;
+    border: 1px solid yellow;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
